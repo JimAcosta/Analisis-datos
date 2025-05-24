@@ -1,5 +1,9 @@
 🧠 Análisis de Futbolistas Profesionales en las 5 Principales Ligas Europeas
+
+
 🎯 Objetivo General
+
+
 Analizar las características demográficas y deportivas de los futbolistas profesionales que participan en las cinco principales ligas europeas (Premier League, LaLiga, Serie A, Bundesliga y Ligue 1), con el fin de identificar patrones relacionados con:
 
 Nacionalidad
@@ -83,6 +87,8 @@ Visualizaciones gráficas (gráficos de barras, mapas de calor, histogramas, etc
 Los notebooks utilizados contienen gráficos, análisis y comentarios que explican paso a paso el proceso y las conclusiones obtenidas.
 
 📊 Conclusiones
+
+
 A partir del análisis realizado sobre los futbolistas profesionales que integran las cinco principales ligas europeas, se pueden identificar múltiples hallazgos relevantes que ayudan a comprender la dinámica actual del fútbol de élite.
 Si bien algunos indicadores muestran que ciertas ligas conservan una fuerte representación de jugadores nacionales —y que algunos países continúan produciendo talento competitivo a nivel internacional—, los resultados generales reflejan una marcada dependencia del talento extranjero. Esta tendencia se manifiesta tanto en la cantidad de jugadores no autóctonos que participan en cada liga, como en su rendimiento dentro del campo de juego.
 En ligas como la Premier League y la Serie A, por ejemplo, se observa una altísima proporción de futbolistas extranjeros, no solo ocupando un lugar numérico, sino destacando en roles clave y liderando las estadísticas ofensivas y defensivas. Esta concentración de talento importado responde no solo a una estrategia deportiva, sino también a una lógica de mercado: los clubes compiten no solo localmente, sino también a nivel global, y requieren fichar a los mejores perfiles disponibles sin importar su origen.
